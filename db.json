@@ -1,8 +1,8 @@
 {
     "tasks": [
-        { "id": 1, "text": "Doctor Appointment", "day": "01/02/2021", "remainder": true },
-        { "id": 2, "text": "Do Exercise", "day": "02/02/2021", "remainder": true },
-        { "id": 3, "text": "Fan Cleaning", "day": "11/02/2021", "remainder": false },
-        { "id": 4, "text": "Shopping", "day": "21/02/2021", "remainder": true }
+        { "id": 1, "text": "Doctor Appointment", "day": "01/02/2021", "reminder": true },
+        { "id": 2, "text": "Do Exercise", "day": "02/02/2021", "reminder": false },
+        { "id": 3, "text": "Fan Cleaning", "day": "11/02/2021", "reminder": false },
+        { "id": 4, "text": "Shopping", "day": "21/02/2021", "reminder": true }
     ]
 }
